@@ -3,6 +3,7 @@ registry
 jeessy/ddns-go
 ubuntu
 ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
 yanwk/comfyui-boot:cu124-cn
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
