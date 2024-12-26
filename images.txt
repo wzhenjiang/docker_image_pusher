@@ -5,7 +5,6 @@ jeessy/ddns-go
 # os images
 ubuntu
 debian
-kali
 centos
 # ai images
 ghcr.io/open-webui/open-webui:main
