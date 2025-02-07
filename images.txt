@@ -15,6 +15,8 @@ v2ray/official
 # db
 mysql:5.7
 mariadb:latest
+# ebook library
+talebook/talebook
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
