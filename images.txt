@@ -17,6 +17,7 @@ mysql:5.7
 mariadb:latest
 # ebook library
 linuxserver/calibre-web
+linuxserver/docker-mods
 talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 #支持私库
