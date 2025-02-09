@@ -16,6 +16,7 @@ v2ray/official
 mysql:5.7
 mariadb:latest
 # ebook library
+linuxserver/calibre-web
 talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 #支持私库
