@@ -1,5 +1,6 @@
 # service images
 nginx
+jc21/nginx-proxy-manager
 registry
 jeessy/ddns-go
 # os images
