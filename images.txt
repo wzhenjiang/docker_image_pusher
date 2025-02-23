@@ -1,25 +1,25 @@
 # service images
-nginx
-jc21/nginx-proxy-manager
 registry
 jeessy/ddns-go
-# os images
-ubuntu
-debian
-centos
+nginx
+# jc21/nginx-proxy-manager
 # ai images
 ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:cuda
+# ghcr.io/open-webui/open-webui:cuda
 yanwk/comfyui-boot:cu124-cn
 # vpn images
-v2ray/official
+# v2ray/official
 # db
 mysql:5.7
 mariadb:latest
 # ebook library
 linuxserver/calibre-web
-talebook/talebook
-ghcr.io/cxfksword/douban-api-rs
+# net drive aggregation
+xhofe/alist
+# os images
+# ubuntu
+# debian
+# centos
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
