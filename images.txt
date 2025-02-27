@@ -2,6 +2,7 @@
 registry
 jeessy/ddns-go
 nginx
+wordpress
 # jc21/nginx-proxy-manager
 # ai images
 ghcr.io/open-webui/open-webui:main
