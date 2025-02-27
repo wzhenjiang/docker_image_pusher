@@ -12,7 +12,7 @@ yanwk/comfyui-boot:cu124-cn
 # v2ray/official
 # db
 mysql:5.7
-mariadb:latest
+linuxserver/mariadb:latest
 # ebook library
 linuxserver/calibre-web
 # net drive aggregation
